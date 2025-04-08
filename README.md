@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mridul Dutta. I am a Technical Writer.
+- 👋 Hi! I’m Mridul Dutta. I am a Technical Writer.
 - 👀 I’m interested in creating clear, concise, and engaging documentation that helps users understand and effectively utilize complex technical products.
 - 🌱 I’m currently learning new technical writing techniques and tools to enhance my ability to create user-friendly documentation.
 - 💞️ I’m looking to collaborate on innovative projects that require clear and effective technical documentation to enhance user experience and product understanding.
